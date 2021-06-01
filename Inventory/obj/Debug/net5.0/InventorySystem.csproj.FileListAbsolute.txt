@@ -1,0 +1,16 @@
+C:\code\Reddit\Inventory\obj\Debug\net5.0\InventorySystem.csprojAssemblyReference.cache
+C:\code\Reddit\Inventory\obj\Debug\net5.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Reddit\Inventory\obj\Debug\net5.0\InventorySystem.AssemblyInfoInputs.cache
+C:\code\Reddit\Inventory\obj\Debug\net5.0\InventorySystem.AssemblyInfo.cs
+C:\code\Reddit\Inventory\obj\Debug\net5.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\code\Reddit\Inventory\bin\Debug\net5.0\InventorySystem.exe
+C:\code\Reddit\Inventory\bin\Debug\net5.0\InventorySystem.deps.json
+C:\code\Reddit\Inventory\bin\Debug\net5.0\InventorySystem.runtimeconfig.json
+C:\code\Reddit\Inventory\bin\Debug\net5.0\InventorySystem.runtimeconfig.dev.json
+C:\code\Reddit\Inventory\bin\Debug\net5.0\InventorySystem.dll
+C:\code\Reddit\Inventory\bin\Debug\net5.0\ref\InventorySystem.dll
+C:\code\Reddit\Inventory\bin\Debug\net5.0\InventorySystem.pdb
+C:\code\Reddit\Inventory\obj\Debug\net5.0\InventorySystem.dll
+C:\code\Reddit\Inventory\obj\Debug\net5.0\ref\InventorySystem.dll
+C:\code\Reddit\Inventory\obj\Debug\net5.0\InventorySystem.pdb
+C:\code\Reddit\Inventory\obj\Debug\net5.0\InventorySystem.genruntimeconfig.cache
